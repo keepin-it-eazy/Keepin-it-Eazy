@@ -2,6 +2,7 @@
 
 <!--
 **keepin-it-eazy/Keepin-it-Eazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+Welcome to my GitHub profile! I'm a beginner developer learning new things every day. I enjoy exploring different technologies and building small projects to practice what I learn.
 
 
 

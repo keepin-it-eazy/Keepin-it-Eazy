@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a beginner developer learning new things every
 
 
 
-- 🔭 I’m currently working on a year long java application for an academic peoject
+- 🔭 I’m currently working on a year long java application for an academic project
 - 🌱 I’m currently learning Java, MySQL, Artificial Intelligence
 - 👯 I’m looking to collaborate on Application Development, Web Development and AI
 - 🤔 I’m looking for help with Java, MySQL, AI, Python
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a beginner developer learning new things every
 
 ## 🌱 Current Learning Goals
 
-- Master the basics of Java
+- The basics of Java
 - Build basic app systems using JAVA and MySQl and anything relating 
 - Learn about version control with Git and GitHub
 

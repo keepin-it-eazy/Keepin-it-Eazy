@@ -693,23 +693,23 @@
         <mxCell id="-MiXcovGbyeg5kzN_aDn-191" value="Student Accommodation App ERD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=52;" vertex="1" parent="1">
           <mxGeometry x="258" y="-835" width="816" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="-MiXcovGbyeg5kzN_aDn-196" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Lesego&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="193" y="-404" width="89" height="36" as="geometry" />
+        <mxCell id="-MiXcovGbyeg5kzN_aDn-196" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Lesego Tshabalala - 240263952&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="86" y="-404" width="303" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="-MiXcovGbyeg5kzN_aDn-197" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Tanatswa&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="872.5" y="-342" width="103" height="36" as="geometry" />
+        <mxCell id="-MiXcovGbyeg5kzN_aDn-197" value="Tanatswa Mabhodha - 220637482" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="768.5" y="-340" width="320" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="-MiXcovGbyeg5kzN_aDn-198" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Mihle&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="209.5" y="96" width="66" height="36" as="geometry" />
+        <mxCell id="-MiXcovGbyeg5kzN_aDn-198" value="Mihle Nosilela - 240865537" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="112.5" y="98" width="260" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="-MiXcovGbyeg5kzN_aDn-199" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Nolwazi&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="925" y="328" width="88" height="36" as="geometry" />
+        <mxCell id="-MiXcovGbyeg5kzN_aDn-199" value="Nolwazi Zulu - 220118876" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="847" y="332" width="249" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="-MiXcovGbyeg5kzN_aDn-200" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Isaac&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="204.5" y="539" width="66" height="36" as="geometry" />
+        <mxCell id="-MiXcovGbyeg5kzN_aDn-200" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Isaac Ziyengwa- 231269307&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="103.5" y="539" width="269" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="-MiXcovGbyeg5kzN_aDn-201" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Witcha&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="859.5" y="927" width="79" height="36" as="geometry" />
+        <mxCell id="-MiXcovGbyeg5kzN_aDn-201" value="Witcha Francisco-222894822" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="764.5" y="929" width="278" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

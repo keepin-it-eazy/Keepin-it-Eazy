@@ -195,7 +195,7 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-MiXcovGbyeg5kzN_aDn-64" value="Student" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=light-dark(#1BA1E2,#1805C4);fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#006EAF,#280BE7);strokeWidth=3;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="-MiXcovGbyeg5kzN_aDn-64" value="Properties" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=light-dark(#1BA1E2,#1805C4);fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#006EAF,#280BE7);strokeWidth=3;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="720" width="250" height="300" as="geometry" />
         </mxCell>
         <mxCell id="-MiXcovGbyeg5kzN_aDn-65" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="-MiXcovGbyeg5kzN_aDn-64">
@@ -206,7 +206,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-MiXcovGbyeg5kzN_aDn-67" value="student_id" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="-MiXcovGbyeg5kzN_aDn-65">
+        <mxCell id="-MiXcovGbyeg5kzN_aDn-67" value="Properties_id" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="-MiXcovGbyeg5kzN_aDn-65">
           <mxGeometry x="30" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -214,12 +214,12 @@
         <mxCell id="-MiXcovGbyeg5kzN_aDn-68" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="-MiXcovGbyeg5kzN_aDn-64">
           <mxGeometry y="60" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-MiXcovGbyeg5kzN_aDn-69" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="-MiXcovGbyeg5kzN_aDn-68">
+        <mxCell id="-MiXcovGbyeg5kzN_aDn-69" value="FK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="-MiXcovGbyeg5kzN_aDn-68">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-MiXcovGbyeg5kzN_aDn-70" value="student number" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="-MiXcovGbyeg5kzN_aDn-68">
+        <mxCell id="-MiXcovGbyeg5kzN_aDn-70" value="Landlord_id" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="-MiXcovGbyeg5kzN_aDn-68">
           <mxGeometry x="30" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -232,7 +232,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-MiXcovGbyeg5kzN_aDn-73" value="name and surname" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="-MiXcovGbyeg5kzN_aDn-71">
+        <mxCell id="-MiXcovGbyeg5kzN_aDn-73" value="Address" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="-MiXcovGbyeg5kzN_aDn-71">
           <mxGeometry x="30" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -245,7 +245,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-MiXcovGbyeg5kzN_aDn-76" value="student email" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="-MiXcovGbyeg5kzN_aDn-74">
+        <mxCell id="-MiXcovGbyeg5kzN_aDn-76" value="Rent_Price" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="-MiXcovGbyeg5kzN_aDn-74">
           <mxGeometry x="30" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>

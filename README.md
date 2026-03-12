@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I'm a beginner developer learning new things every
 
 
 - 🔭 I’m currently working on a year long java application for an academic project
-- 🌱 I’m currently learning Java, MySQL, Artificial Intelligence
+- 🌱 I’m currently learning Java, C#, MySQL, Artificial Intelligence
 - 👯 I’m looking to collaborate on Application Development, Web Development and AI
-- 🤔 I’m looking for help with Java, MySQL, AI, Python
+- 🤔 I’m looking for help with Java, MySQL, AI, Python and C#
 - 💬 Ask me about Java
 - 📫 How to reach me: Primary email: 231269307@mycput.ac.za || Secondary email: keepiniteazy@gmail.com
 - ⚡ Fun fact:I've been a longboard skater since I was 12 years old and I'm a content creator in my free time 

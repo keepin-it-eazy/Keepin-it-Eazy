@@ -81,7 +81,7 @@ I am a motivated Information Technology student, specializing in Applications De
     <img src="https://iconic-api.onrender.com/dark/github" width="48px" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/isaacziyengwa" target="_blank">
+  <a href="https://linkedin.com/in/Isaac Ziyengwa" target="_blank">
     <img src="https://iconic-api.onrender.com/dark/linkedin" width="48px" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;

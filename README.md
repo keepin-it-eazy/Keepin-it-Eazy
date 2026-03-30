@@ -1,26 +1,98 @@
-## Hi there 👋 I'm Isaac
+# Isaac T Ziyengwa
 
-<!--
-**keepin-it-eazy/Keepin-it-Eazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-Welcome to my GitHub profile! I'm a beginner developer learning new things every day. I enjoy exploring different technologies and building small projects to practice what I learn.
+📍 Cape Town, South Africa  
+📧 231269307@mycput.ac.za  
+📞 +27 60 402 2165  
+🏠 37 Palmida Street, Sarepta, Kuils River, Cape Town, 7580
 
+---
 
+## 🎯 Objective
 
-- 🔭 I’m currently working on a year long java application for an academic project
-- 🌱 I’m currently learning Java, C#, MySQL, Artificial Intelligence
-- 👯 I’m looking to collaborate on Application Development, Web Development and AI
-- 🤔 I’m looking for help with Java, MySQL, AI, Python and C#
-- 💬 Ask me about Java
-- 📫 How to reach me: Primary email: 231269307@mycput.ac.za || Secondary email: keepiniteazy@gmail.com
-- ⚡ Fun fact:I've been a longboard skater since I was 12 years old and I'm a content creator in my free time 
+I am a motivated Information Technology student, specializing in Applications Development, seeking a **WIL Junior Developer** position. I am eager to apply proficiency in Java, C#, and web development to support the development team of any company, in building, testing, and debugging innovative software solutions.
 
-## 🌱 Current Learning Goals
+---
 
-- The basics of Java
-- Build basic app systems using JAVA and MySQl and anything relating 
-- Learn about version control with Git and GitHub
+## 🎓 Education
 
-Lets connect:
+| Institution | Qualification | Year |
+|-------------|---------------|------|
+| **Cape Peninsula University of Technology** | DIP: ICT in Applications Development | 3rd Year (Current) |
+| **Sarepta Secondary School** | NSC Bachelors Pass | 2022 |
 
-LinkedIn:{www.linkedin.com/in/isaac-ziyengwa-057b11350}
-Instagram:{https://www.instagram.com/keepin_it_eazy/#}
+---
+
+## 💻 Technical Skills
+
+| Category | Technologies |
+|----------|--------------|
+| **Programming Languages** | Java, C# |
+| **Web Development** | HTML, CSS, JavaScript |
+
+---
+## 🚀 What I'm currently learning
+
+☕ Spring Boot – Building REST APIs with Java
+
+🎨 React.js – Modern frontend frameworks
+
+🔧 Design Patterns – Writing cleaner, scalable code
+
+🐳 Docker – Containerization basics
+
+---
+
+## 💼 Work Experience
+
+### Car Wash Attendant
+**Hydro Car Wash** | Kuils River, Cape Town | *2022 – 2023*
+
+- Providing vehicle cleaning and detailing services maintaining high customer satisfaction
+- Ensured vehicles were attended to and presented to a high standard
+- Ensured cleanliness and organization of the work area was maintained
+
+### Tuckshop Runner
+**Youth Magnet Tuckshop** | Elsies River, Cape Town | *2024 – 2026*
+
+- Restocking and inventory tracking
+- Collection and delivery of stock using a vehicle
+- Assisting with daily operations to maintain efficient service
+
+---
+
+## 📋 References
+
+### Prince Ziyengwa
+*Hydro Car Wash*  
+📧 princeziyengwa770@gmail.com  
+📞 +27 74 445 6410
+
+### Ayola Sibulele Simani
+*Youth Magnet Tuckshop*  
+📧 stevensibulele35@gmail.com  
+📞 +27 63 193 0211
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/keepin-it-eazy" target="_blank">
+    <img src="https://iconic-api.onrender.com/dark/github" width="48px" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/isaac" target="_blank">
+    <img src="https://iconic-api.onrender.com/dark/linkedin" width="48px" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:231269307@mycput.ac.za">
+    <img src="https://iconic-api.onrender.com/dark/gmail" width="48px" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="tel:+27604022165">
+    <img src="https://iconic-api.onrender.com/dark/whatsapp" width="48px" alt="WhatsApp" />
+  </a>
+</p>
+---
+
+*Open to WIL Junior Developer opportunities | Available for immediate placement*
